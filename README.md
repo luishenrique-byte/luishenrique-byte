@@ -63,8 +63,8 @@ public class LuisHenrique {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=luishenrique-byte&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luishenrique-byte&layout=compact&hide_border=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api?username=luishenrique-byte&show_icons=true&hide_border=true&count_private=true&theme=tokyonight"/>
+  <img height="170em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=luishenrique-byte&layout=compact&hide_border=true&theme=tokyonight"/>
 </div>
 
 ---
