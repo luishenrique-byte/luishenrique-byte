@@ -18,9 +18,9 @@ public class LuisHenrique {
     String trabalho   = "Estagiário de TI — Hospital MaterDei";
     String cidade     = "Salvador, Bahia 🌊";
  
-    String[] foco     = { "Java", "Spring Boot", "Vue.js" };
+    String[] foco     = { "Java", "Spring", "Vue.js" };
     String objetivo   = "Construir projetos completos do zero — do banco ao frontend";
-    String proximo    = "Spring Boot + Vue.js em produção";
+    String proximo    = "Spring + Vue.js em produção";
 }
 ```
 
